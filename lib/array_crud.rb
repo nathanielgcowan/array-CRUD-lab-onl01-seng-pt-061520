@@ -10,8 +10,7 @@ def add_element_to_end_of_array(array, element)["a", "b", "c", "d"] << "arrays!"
   
 end
 
-def add_element_to_start_of_array(array, element)
-  .unshift("wow")
+def add_element_to_start_of_array(array, element.first)
 end
 
 def remove_element_from_end_of_array(array)
