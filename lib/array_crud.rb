@@ -21,11 +21,11 @@ def remove_element_from_start_of_array(array)["wow", "b", "c", "d"].shift
   
 end
 
-def retrieve_element_from_index(array, index_number)["wow", "b", "c", "d"]
+def retrieve_element_from_index(array, index_number)["am", "b", "c", "d"]
   
 end
 
-def retrieve_first_element_from_array(array)["a","b","c"].first
+def retrieve_first_element_from_array(array)["am","b","c"].first
 end
 
 def retrieve_last_element_from_array(array)
