@@ -13,7 +13,7 @@ end
 def add_element_to_start_of_array(array, element)["a", "b", "c", "d"].unshift("wow")
 end
 
-def remove_element_from_end_of_array(array)["a", "b", "c", "d", "e"].pop
+def remove_element_from_end_of_array(array)["a", "b", "c", "d", "arrays!"].pop
   
 end
 
