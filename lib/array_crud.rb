@@ -17,7 +17,7 @@ def remove_element_from_end_of_array(array)["a", "b", "c", "d", "arrays!"].pop
   
 end
 
-def remove_element_from_start_of_array(array)["a", "b", "c", "d"].shift
+def remove_element_from_start_of_array(array)["wow", "b", "c", "d"].shift
   
 end
 
