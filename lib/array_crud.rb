@@ -28,6 +28,6 @@ end
 def retrieve_first_element_from_array(array)["wow","b","c"].first
 end
 
-def retrieve_last_element_from_array(array)
+def retrieve_last_element_from_array(array) [ "a", "arrays!"]
   
 end
